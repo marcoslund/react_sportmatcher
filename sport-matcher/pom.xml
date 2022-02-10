@@ -33,7 +33,7 @@
     <org.thymeleaf.version>3.0.10.RELEASE</org.thymeleaf.version>
     <javax.mail.version>1.4.7</javax.mail.version>
     <org.springframework.integration.version>5.0.8.RELEASE</org.springframework.integration.version>
-    <org.hibernate.version>5.1.0.Final</org.hibernate.version>
+    <org.hibernate.version>5.4.24.Final</org.hibernate.version>
     <org.hibernate.jpa.version>1.0.0.Final</org.hibernate.jpa.version>
     <jersey.version>3.0-SNAPSHOT</jersey.version>
     <jsonwebtoken.version>0.7.0</jsonwebtoken.version>
