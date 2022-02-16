@@ -18,7 +18,7 @@
     <org.springframework.version>4.2.5.RELEASE</org.springframework.version>
     <servlet-api.version>2.5</servlet-api.version>
     <jstl.version>1.2</jstl.version>
-    <org.postgresql.version>42.2.5</org.postgresql.version>
+    <org.postgresql.version>42.3.3</org.postgresql.version>
     <org.hsqldb.version>2.3.1</org.hsqldb.version>
     <org.mockito.version>2.28.2</org.mockito.version>
     <javax.validation-api.version>1.0.0.GA</javax.validation-api.version>
