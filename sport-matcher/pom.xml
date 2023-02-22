@@ -28,7 +28,7 @@
     <logback.version>1.1.2</logback.version>
     <logback-ext-spring.version>0.1.1</logback-ext-spring.version>
     <maven-war-plugin.version>2.6</maven-war-plugin.version>
-    <commons-fileupload.version>1.4</commons-fileupload.version>
+    <commons-fileupload.version>1.5</commons-fileupload.version>
     <org.imgscalr.version>4.2</org.imgscalr.version>
     <org.thymeleaf.version>3.0.10.RELEASE</org.thymeleaf.version>
     <javax.mail.version>1.4.7</javax.mail.version>
